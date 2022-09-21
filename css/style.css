@@ -1,0 +1,60 @@
+body{
+    color:#757575;
+    background-color: #fff;
+}
+
+.logo{
+    color: #000000;
+}
+
+.logo-web{
+    color: #2196F3;
+}
+
+.list{
+    list-style: none;
+}
+/* СТУДІЯ */
+/* Navigation */
+.site-nav .link{
+    color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus{
+    color: #2196F3;
+}
+
+/* Hero */
+.hero{}
+.hero-title{}
+
+
+/* Main Section */
+.section-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+/* ПОРТФОЛІО */
+/* Main content */
+
+/*колір текста #757575;*/
+/*колір заголовків  #212121;
+/*заголовок білий #FFFFFF;*/
+/*колір мейла і номера в футері rgba(255, 255, 255, 0.6);*/ 
+/*колір акценту голубенький #2196F3*/
+/* вторинний колір сторінки #2F303A */
